@@ -77,7 +77,7 @@ header h3 {
 }
 
 .body-flex > div, .body-flex > a {
-   
+ 
     min-width: 300px;
     flex-grow: 1;
     border-style: solid;
@@ -118,6 +118,7 @@ a {
     bottom: 0;
     right: 0;
     margin: 0;
+    line-height: 1.3rem;
     text-decoration: underline;
 }
 .example-2{
@@ -134,6 +135,7 @@ a {
     bottom: 0;
     right: 0;
     margin: 0;
+    line-height: 1.3rem;
     text-decoration: underline;
 }
 
@@ -151,6 +153,7 @@ a {
     bottom: 0;
     right: 0;
     margin: 0;
+    line-height: 1.3rem;
     text-decoration: underline;
 }
 
@@ -168,6 +171,7 @@ a {
     bottom: 0;
     right: 0;
     margin: 0;
+    line-height: 1.3rem;
     text-decoration: underline;
 }
 
