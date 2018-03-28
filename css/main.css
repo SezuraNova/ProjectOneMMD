@@ -110,6 +110,15 @@ a {
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
+    position: relative;
+}
+.example-1 > h6{
+    display: inline;
+    position:absolute;
+    bottom: 0;
+    right: 0;
+    margin: 0;
+    text-decoration: underline;
 }
 .example-2{
     background-image: url(CambridgeAnalytica.png);
@@ -117,22 +126,52 @@ a {
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
+    position: relative;
 }
+.example-2 > h6{
+    display: inline;
+    position:absolute;
+    bottom: 0;
+    right: 0;
+    margin: 0;
+    text-decoration: underline;
+}
+
 .example-3{
     background-image: url(brainAttentionEconomy.jpg);
     /*Source:http://humanetech.com/problem/*/
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
+    position: relative;
 }
+.example-3 > h6{
+    display: inline;
+    position:absolute;
+    bottom: 0;
+    right: 0;
+    margin: 0;
+    text-decoration: underline;
+}
+
 .example-4{
     background-image: url(EchoChamber.png);
     /*Source:http://affinitymagazine.us/2017/01/30/beware-the-echo-chamber/*/
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-
+    position: relative;
 }
+.example-4 > h6{
+    display: inline;
+    position:absolute;
+    bottom: 0;
+    right: 0;
+    margin: 0;
+    text-decoration: underline;
+}
+
+
 .example-5{
     position:relative;
     padding-bottom:56.25%;
